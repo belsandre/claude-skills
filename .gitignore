@@ -1,0 +1,27 @@
+# Research state files (temporary/project-specific)
+.research_state_*.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian
+.obsidian/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
